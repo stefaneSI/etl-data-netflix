@@ -20,7 +20,13 @@ Pandas: https://pandas.pydata.org/
 
 ### Para ativar o Ambiente Virtual
 
-```venv/scripts/activate```
+```.venv/Scripts/activate```
+
+# Estrutura de pastas
+
+Pasta src - source ou fonte
+Dentro dela temos o código fonte ou arquivos do projeto.
+Fora dela temos a docuemntação e arquivo de configuração do projeto.
 
 # Etapas do Dado
 
